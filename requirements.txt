@@ -1,0 +1,14 @@
+tensorflow>=2.15
+keras>=3.0
+numpy>=1.26
+pandas>=2.1
+scikit-learn>=1.4
+matplotlib>=3.8
+seaborn>=0.13
+tensorflow-datasets>=4.9
+transformers>=4.40
+datasets>=2.18
+evaluate>=0.4
+rouge-score>=0.1
+sentencepiece>=0.2
+huggingface_hub>=0.23

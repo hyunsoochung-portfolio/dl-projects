@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Datasets / caches
+data/
+.cache/
+.tensorflow_datasets/
+~/.keras/
+
+# Model artifacts
+*.h5
+*.keras
+*.ckpt
+*.pb
+checkpoints/
+
+# Plots / outputs
+*.png
+*.jpg
+*.jpeg
+artifacts/
+
+# Logs
+logs/
+runs/
+tb_logs/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
